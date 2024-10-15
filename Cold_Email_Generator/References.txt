@@ -1,0 +1,14 @@
+Problem Statement: 
+Companies offering software services need to reach out to potential clients by sending cold emails, tailored to specific job postings. 
+Crafting these emails manually takes time and effort, especially when aligning them with the required skills. 
+A tool using an AI language model can automate this process by generating relevant, personalized emails based on the job listing.
+
+Potential Users: 
+Business Development Executive (BDE) of Infosys,TCS, and other IT Companies.
+
+-> Tutorial: https://youtu.be/CO4E_9V6li0?si=rNYpF7_zrrixFOK6
+-> GroqCloud: Cloud API for running LLM models with fast inference (https://console.groq.com/playground)
+-> Lllama 3.1: https://ai.meta.com/blog/meta-llama-3-1/
+-> Chroma: Open source & light-weight Vector Database (https://www.trychroma.com/)
+-> LangChain: Framework to build LLM applications easier (https://www.langchain.com/)
+-> Streamlit: App building module (https://streamlit.io/)
