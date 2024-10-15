@@ -1,0 +1,7 @@
+A file named '.env' has been removed because it contained my Groq API key.
+In order to run the code, the file has to be generated as follows.
+
+# Instructions
+1. Generate a text file name '.env'
+2. Content: GROQ_API_KEY = <Your_API_Key>
+3. Save and Run.
