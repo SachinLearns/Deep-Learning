@@ -1,6 +1,7 @@
 import cv2
-import mediapipe as mp
+import mediapipe as mp # https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker
 import time
+
 
 # List of 21 hand landmarks and their indices
 HAND_LANDMARKS = [
