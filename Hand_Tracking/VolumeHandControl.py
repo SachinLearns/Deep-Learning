@@ -22,7 +22,7 @@ maxVol = volRange[1]
 vol = 0
 volBar = 400
 volPercent = 100
-wCam, hCam = 1280, 960 # camera width, height
+wCam, hCam = 900, 600 #1280, 960 # camera width, height
 
 cap = cv2.VideoCapture(1)
 cap.set(3, wCam)
